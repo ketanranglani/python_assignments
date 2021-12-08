@@ -1,0 +1,6 @@
+S =set()
+S.add(20)
+S.add(20.0)
+S.add('20')
+n=len(S)
+print(n)
